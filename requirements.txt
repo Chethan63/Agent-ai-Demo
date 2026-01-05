@@ -1,0 +1,8 @@
+google-adk
+litellm
+langchain_community
+langchain_chroma
+Beautifulsoup4
+langchain_openai
+streamlit
+google.genai
